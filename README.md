@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) of COVID-19 Symptoms Dataset  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a COVID-19 dataset.  
 The goal is to explore patterns, visualize distributions, and identify key factors associated with COVID-19 outcomes.  
 
@@ -8,7 +8,7 @@ Unlike a full machine learning pipeline, this project is kept **EDA-only** to hi
 
 ---
 
-## 📊 Dataset  
+##  Dataset  
 The dataset contains patient-level information such as:  
 - **Demographics** – Age, Gender  
 - **Symptoms** – Cough, Fever, Sore throat, Shortness of breath, Headache  
@@ -17,7 +17,7 @@ The dataset contains patient-level information such as:
 
 ---
 
-## 🔍 Analysis Performed  
+##  Analysis Performed  
 1. **Data Cleaning & Overview**  
    - Handled missing values and inconsistencies  
    - Checked data types and summary statistics  
@@ -38,7 +38,7 @@ The dataset contains patient-level information such as:
 
 ---
 
-## 📈 Visualizations  
+##  Visualizations  
 - Countplots and bar charts for categorical variables  
 - Histograms and boxplots for numerical variables  
 - Grouped visualizations comparing COVID outcomes across features  
@@ -46,7 +46,7 @@ The dataset contains patient-level information such as:
 
 ---
 
-## ✅ Key Insights  
+##  Key Insights  
 - **Fever and cough** are the most significant symptoms linked with positive COVID test results.  
 - **Shortness of breath** and **sore throat** also show moderate correlation with COVID positivity.  
 - **Gender** does not show a very strong correlation, but slight differences exist.  
@@ -55,7 +55,7 @@ The dataset contains patient-level information such as:
 
 ---
 
-## 📝 Conclusion  
+##  Conclusion  
 From the exploratory analysis, the dataset reveals several important trends:  
 - Certain symptoms (fever, cough, breathing difficulties) are highly indicative of COVID-19.  
 - Demographic variables such as **age** play an important role in infection likelihood.  
@@ -65,7 +65,7 @@ This project demonstrates how **EDA can uncover hidden patterns** and guide furt
 
 ---
 
-## 🚀 Future Scope  
+##  Future Scope  
 - Apply machine learning models (e.g., Logistic Regression, Decision Trees) for prediction.  
 - Perform advanced feature engineering for symptom combinations.  
 - Explore time-series trends if timestamped data is available.  
